@@ -1,0 +1,11 @@
+to run voicemail
+
+1.run app.py in vscode
+2. open another terminal and run (ngrok http 5000)
+3.open the linke(https://xxxxx.ngrok-free.app)
+
+if error occurs-> need to get authentication key
+
+1.sign in ngrok
+2. open (https://dashboard.ngrok.com/get-started/your-authtoken)
+3. copy & paste the key in another teminal
